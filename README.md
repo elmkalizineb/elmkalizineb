@@ -1,16 +1,25 @@
-## Hi there 👋
+# Hi 👋, I'm Zineb
 
-<!--
-**elmkalizineb/elmkalizineb** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+🎓 Master’s Student in **Network & Security**  
+💻 Junior **Web Developer**  
+🌍 Based in Algeria  
+🚀 Passionate about learning, building projects, and freelancing
 
-Here are some ideas to get you started:
+---
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## 👩‍💻 About Me
+
+- 🔐 Studying **Networks & Cybersecurity**
+- 🌐 Learning **Web Development** (HTML, CSS, JavaScript)
+- 🐍 Comfortable with **Python**
+
+---
+
+## 📫 Contact Me
+
+- 💼 GitHub: [https://github.com/elmkalizineb](https://github.com/elmkalizineb)
+- ✉️ Email: elmkalizineb@gmail.com
+
+---
+⭐ Feel free to check my repositories and follow my journey!
+
