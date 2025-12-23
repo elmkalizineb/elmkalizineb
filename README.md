@@ -1,25 +1,54 @@
-# Hi 👋, I'm Zineb
+# Hi, I'm Zineb 👋
 
-🎓 Master’s Student in **Network & Security**  
-💻 Junior **Web Developer**  
-🌍 Based in Algeria  
-🚀 Passionate about learning, building projects, and freelancing
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-Zineb-blue?style=flat-square&logo=linkedin)](https://www.linkedin.com/in/your-linkedin)  
+[![Gmail](https://img.shields.io/badge/Email-your-email-red?style=flat-square&logo=gmail)](mailto:elmkalizineb@gmail.com)
 
 ---
-
 ## 👩‍💻 About Me
 
-- 🔐 Studying **Networks & Cybersecurity**
-- 🌐 Learning **Web Development** (HTML, CSS, JavaScript)
-- 🐍 Comfortable with **Python**
+🎓 Master’s Student in **Network & Security**  
+💻 Aspiring **Full-Stack / Web Developer**  
+🌍 Based in Algeria  
+🚀 Passionate about **networking, cybersecurity, and web development**  
+🎯 Goal: Build real-world projects and start **freelancing**
 
 ---
 
-## 📫 Contact Me
+## 🛠️ Skills
 
-- 💼 GitHub: [https://github.com/elmkalizineb](https://github.com/elmkalizineb)
-- ✉️ Email: elmkalizineb@gmail.com
+### Programming & Web
+- HTML5 | CSS3 | JavaScript | Python
+
+### Networking & Systems
+- Windows Server (AD, DNS, DHCP)  
+- Linux Basics & Networking Fundamentals  
+- Network Security Concepts  
+
+### Tools & Platforms
+- Git & GitHub  
+- VirtualBox  
+- VS Code  
 
 ---
-⭐ Feel free to check my repositories and follow my journey!
 
+## 📂 Projects
+> My projects available in my [repositories](https://github.com/elmkalizineb)
+
+---
+
+## 📚 Currently Learning
+
+- Advanced JavaScript & **Frontend Frameworks**  
+- Backend Basics (Node.js / Python Flask)  
+- Cybersecurity & **Network Defense Techniques**  
+- Freelancing Skills & Portfolio Development  
+
+---
+
+## 📊 GitHub Stats
+
+[![Zineb's GitHub stats](https://github-readme-stats.vercel.app/api?username=elmkalizineb&count_private=true&show_icons=true&theme=radical&hide_rank=false)](https://github.com/anuraghazra/github-readme-stats)
+
+---
+
+⭐ Let’s connect and build something amazing!
