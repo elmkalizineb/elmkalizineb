@@ -1,6 +1,6 @@
 # Hi, I'm Zineb 👋
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-Zineb-blue?style=flat-square&logo=linkedin)](https://www.linkedin.com/in/your-linkedin)  
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-Zineb-blue?style=flat-square&logo=linkedin)](https://www.linkedin.com/in/zineb-elmkali-webdev)  
 [![Gmail](https://img.shields.io/badge/Email-your-email-red?style=flat-square&logo=gmail)](mailto:elmkalizineb@gmail.com)
 
 ---
