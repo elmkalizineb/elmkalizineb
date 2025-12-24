@@ -13,7 +13,6 @@
 🎯 Goal: Build real-world projects and start **freelancing**
 
 ---
-
 ## 🛠️ Skills
 
 ### Programming & Web
@@ -23,12 +22,6 @@
 - Windows Server (AD, DNS, DHCP)  
 - Linux Basics & Networking Fundamentals  
 - Network Security Concepts  
-
-### Tools & Platforms
-- Git & GitHub  
-- VirtualBox  
-- VS Code  
-
 ---
 
 ## 📂 Projects
